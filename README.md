@@ -1,4 +1,4 @@
-Yüklenecek eklentiler:
+Python 3.9 Yüklenecek eklentiler:
         bs4, 
         tk,
         requests
